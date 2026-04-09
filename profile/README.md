@@ -10,6 +10,8 @@
 | Skill | What it does |
 |---|---|
 | [**ai-video-storyboard**](https://github.com/aicontentskills/ai-video-storyboard-skill) | Turn vague video ideas into complete multi-shot storyboards with cinematic prompts, visual consistency guidance, and post-production checklists |
+| [**ai-video-prompt-enhancer**](https://github.com/aicontentskills/ai-video-prompt-enhancer) | Turn rough single-shot video ideas into production-grade cinematic prompts with specific lighting, camera, lens, and composition details |
+| [**tiktok-reel-hook-generator**](https://github.com/aicontentskills/tiktok-reel-hook-generator) | Generate scroll-stopping visual hooks for TikTok, Reels, and YouTube Shorts — 3 variants per topic using six proven hook patterns |
 
 *More skills coming soon.*
 
